@@ -23,5 +23,7 @@ Currently pursuing a **Master's in Applied Statistics with a specialization in D
 
 * 🌍  I'm based in Bogotá, Colombia.
 * ✉️  You can contact me at [maria.alejandra.marin.ga@gmail.com](mailto:maria.alejandra.marin.ga@gmail.com)
-* :computer: On LinkedIn as https://www.linkedin.com/in/mar%C3%ADa-alejandra-mar%C3%ADn-gal%C3%A1n-3486591a9/
-
+<div align="left">
+<a href="https://www.linkedin.com/in/mar%C3%ADa-alejandra-mar%C3%ADn-gal%C3%A1n-3486591a9/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
