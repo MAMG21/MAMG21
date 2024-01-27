@@ -1,44 +1,27 @@
 Hi 👋 I´m María Alejandra Marín
 ======================================
+</head>
+<body>
+  <div class="icon-container">
+    <img src="https://camo.githubusercontent.com/b66f76d657fe662500977c6730941ccff0c0cec4bb8564db9a28e70b4887b627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f722d2532333237364443332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465" alt="Icono1" class="icon">
+    <img src="https://camo.githubusercontent.com/4b541f9aa5e13d134b5f38aa12b38df383aa561c861b6934b154f7bc705b91a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Icono2" class="icon">
+    <img src="https://camo.githubusercontent.com/b0dd0c2b3bbe007ae4eef1f59c17c24ce53a334ad46bfdb80b5c841eaeccdde3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465" alt="Icono3" class="icon">
+    <img src="https://camo.githubusercontent.com/5e0632cec7067f42e3137dbabf5a86601c1e2ded8cab8452fb26f98a083c5b95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465" alt="Icono4" class="icon">
+    <img src="https://camo.githubusercontent.com/4b541f9aa5e13d134b5f38aa12b38df383aa561c861b6934b154f7bc705b91a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Icono5" class="icon">
+    <img src="https://camo.githubusercontent.com/f38298638f10774e1f0205a1111dff4a7675c0ed8600356f28e8276c2bab8235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Icono6" class="icon">
+    <img src="https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="Icono7" class="icon">
+  </div>
+</body>
+</html>
 
-Mechanical Engineer
--------------------
+## About me
+
+Im a **Mechanical Engineer** deeply passionate about the transportation sector. I have dedicated my career to the intersection of engineering and data-driven decision-making. 
+Currently pursuing a **Master's in Applied Statistics with a specialization in Data Science**, I am excited to leverage my engineering expertise in a field that has rapidly embraced the power of data. Working in transportation, has not only been a professional endeavor for me but a true passion. I believe that data holds the key to unlocking insights crucial for informed decision-making. Transitioning into the world of Data Science represents the convergence of my engineering background with a profound appreciation for the strategic utilization of information. I am driven by a genuine love for learning, and I am excited to contribute my skills and knowledge to the dynamic and impactful realm of Data Science. 
+
+## Want to know more? Contact me:
 
 * 🌍  I'm based in Bogotá, Colombia.
 * ✉️  You can contact me at [maria.alejandra.marin.ga@gmail.com](mailto:maria.alejandra.marin.ga@gmail.com)
-* 🧠  I'm learning Master's Degree in Statistics Applied to Data Science
+* :computer: On LinkedIn as https://www.linkedin.com/in/mar%C3%ADa-alejandra-mar%C3%ADn-gal%C3%A1n-3486591a9/
 
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="URL_de_logo_de_Python" width="36" height="36" alt="Python" />
-</a>
-
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-  <img src="URL_de_logo_de_R" width="36" height="36" alt="R" />
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-</a>
-</p>
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/MAMG21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/maría-alejandra-marín-galán-3486591a9/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MAMG21"><img src="https://github-readme-stats.vercel.app/api?username=MAMG21&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MAMG21's GitHub stats" /></a>
-
-<a href="https://github.com/MAMG21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAMG21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
