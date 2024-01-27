@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&duration=3000&pause=2008&color=335F8B&width=300&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg) Hi 👋 I´m Alejandra
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&duration=3000&pause=8008&color=335F8B&width=300&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg) Hi 👋 I´m Alejandra
 ======================================
 <html lang="en">
 <head>
