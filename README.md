@@ -22,11 +22,22 @@
 Im a **Mechanical Engineer** deeply passionate about the transportation sector. I have dedicated my career to the intersection of engineering and data-driven decision-making. 
 Currently pursuing a **Master's in Applied Statistics with a specialization in Data Science**, I am excited to leverage my engineering expertise in a field that has rapidly embraced the power of data. Working in transportation, has not only been a professional endeavor for me but a true passion. I believe that data holds the key to unlocking insights crucial for informed decision-making. Transitioning into the world of Data Science represents the convergence of my engineering background with a profound appreciation for the strategic utilization of information. I am driven by a genuine love for learning, and I am excited to contribute my skills and knowledge to the dynamic and impactful realm of Data Science. 
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MAMG21&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MAMG21&hide_border=true" align="left" style="width: 100%" />
+</td></tr></table>   
+
 ## Want to know more? Contact me:
 
 * 🌍  I'm based in Bogotá, Colombia.
 * ✉️  You can contact me at [maria.alejandra.marin.ga@gmail.com](mailto:maria.alejandra.marin.ga@gmail.com)
-<div align="left">
-<a href="https://www.linkedin.com/in/mar%C3%ADa-alejandra-mar%C3%ADn-gal%C3%A1n-3486591a9/" target="_blank">
+
+<div align="center">
+<h5>Where to find me</h5>
+<a href="https://www.linkedin.com/in/maría-alejandra-marín-galán-3486591a9/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+</div>  
