@@ -30,6 +30,9 @@ Currently pursuing a **Master's in Applied Statistics with a specialization in D
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAMG21&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>   
 
+## Github Activity
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAMG21&theme=github-compact)](https://github.com/MAMG21/github-readme-activity-graph)
+
 ## Want to know more? Contact me:
 
 * 🌍  I'm based in Bogotá, Colombia.
