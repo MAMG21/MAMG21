@@ -40,7 +40,7 @@ Currently pursuing a **Master's in Applied Statistics with a specialization in D
 
 <div align="center">
 <h5>Where to find me</h5>
-<a href="https://www.linkedin.com/in/maría-alejandra-marín-galán-3486591a9/" target="_blank">
+<a href="https://www.linkedin.com/in/maria-alejandra-marin/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
